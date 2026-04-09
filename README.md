@@ -141,16 +141,6 @@ for (let i = 0; i < arr.length; i++)
 
 **Las instrucciones del usuario siempre prevalecen.** Si pides explícitamente una explicación detallada, Claude la proporcionará. El archivo nunca se resiste.
 
----
-
-## 🤝 Contribuye
-
-¿Encontraste un comportamiento que CLAUDE.md pueda solucionar?
-
-Abre una issue con:
-- El comportamiento molesto
-- Qué lo desencadena
-- La regla que lo arregla
 
 ---
 
